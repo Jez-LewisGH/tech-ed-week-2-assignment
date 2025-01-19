@@ -1,0 +1,9 @@
+#thumbnailContainer img {
+    width: auto;
+    height: 20vh;
+}
+
+img {
+    height: 80vh;
+    width: auto;
+}
