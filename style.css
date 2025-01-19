@@ -1,9 +1,35 @@
-#thumbnailContainer img {
+#thumbNailContainer img {
     width: auto;
-    height: 20vh;
+    height: 10vh
+
 }
 
 img {
     height: 80vh;
     width: auto;
+
 }
+
+#thumbNailContainer {
+
+    width: 100vw;
+    position: center;
+
+}
+
+#previous {
+    background-color: blueviolet;
+    height:2vh;
+    width: 2vw;
+    position: relative;
+
+}
+
+#next {
+    background-color: aqua;
+    background-image: src='https://www.clipartbest.com/clipart-dc85rjzMi';
+    height: 2vh;
+    width: 2vw;
+    position: sticky;
+}
+

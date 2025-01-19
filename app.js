@@ -19,6 +19,10 @@ let images = [
     {
         src: './images/umbrella.webp',
         alt: 'Photo of someone struggling with an ubrella in high winds'
+    },
+    {
+        src:'./images/canyon.webp',
+        alt: 'Photo of a scenic canyon'
     }
 ]
 
